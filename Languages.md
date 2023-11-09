@@ -18,4 +18,12 @@ To prevent this, you must transform each individual column of the Global Area th
   
 ![screenshot](img/2023-11-09%2000_34_37-Window.png)
 
+- After the selection, a button for the confirm of the localization creation (1)  compares. Click on it for confirm the creation.
+
+![screenshot](img/2023-11-09%2001_19_35-Window.png)
+
+- The languages of an object with the localized global area version created are displayed in bold in the languages option of the breadcrumb. You can delete the globalization selecting the _Clear Global Area_ option (2):
+  
+![screenshot](img/2023-11-09%2001_20_01-Window.png)
+
 Now you can modify the global column and the effect spreads only in the pages of the language localization and not in all.
